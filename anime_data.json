@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "title": "Attack on Titan",
+    "coverImage": "https://images.pexels.com/photos/6447217/pexels-photo-6447217.jpeg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [
+      "Military",
+      "Survival",
+      "Post-Apocalyptic"
+    ],
+    "popularity": 95,
+    "description": "In a world where humanity lives within cities surrounded by enormous walls due to the Titans, gigantic humanoid creatures who devour humans seemingly without reason."
+  },
+  {
+    "id": 2,
+    "title": "Death Note",
+    "coverImage": "https://images.pexels.com/photos/8107206/pexels-photo-8107206.jpeg",
+    "genres": [
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "themes": [
+      "Mind Games",
+      "Police",
+      "Crime"
+    ],
+    "popularity": 90,
+    "description": "A high school student discovers a supernatural notebook that grants him the power to kill anyone whose name he writes in it."
+  },
+  {
+    "id": 3,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "coverImage": "https://images.pexels.com/photos/10118744/pexels-photo-10118744.jpeg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [
+      "Military",
+      "Alchemy",
+      "Brotherhood"
+    ],
+    "popularity": 92,
+    "description": "Two brothers search for the Philosopher's Stone after an attempt to revive their deceased mother goes wrong."
+  },
+  {
+    "id": 4,
+    "title": "My Hero Academia",
+    "coverImage": "https://images.pexels.com/photos/7064222/pexels-photo-7064222.jpeg",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Superhero"
+    ],
+    "themes": [
+      "School",
+      "Superpowers",
+      "Coming of Age"
+    ],
+    "popularity": 88,
+    "description": "A boy born without superpowers in a world where they have become commonplace, but who still dreams of becoming a hero himself."
+  },
+  {
+    "id": 5,
+    "title": "One Punch Man",
+    "coverImage": "https://images.pexels.com/photos/8107193/pexels-photo-8107193.jpeg",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Superhero"
+    ],
+    "themes": [
+      "Parody",
+      "Satire",
+      "Overpowered Protagonist"
+    ],
+    "popularity": 86,
+    "description": "The story of Saitama, a hero who can defeat any opponent with a single punch but seeks a worthy opponent after growing bored by a lack of challenge."
+  },
+  {
+    "id": 6,
+    "title": "Demon Slayer",
+    "coverImage": "https://images.pexels.com/photos/13841424/pexels-photo-13841424.jpeg",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Historical"
+    ],
+    "themes": [
+      "Demons",
+      "Revenge",
+      "Training"
+    ],
+    "popularity": 94,
+    "description": "A young man becomes a demon slayer after his family is slaughtered and his sister is turned into a demon."
+  },
+  {
+    "id": 7,
+    "title": "Steins;Gate",
+    "coverImage": "https://images.pexels.com/photos/9568022/pexels-photo-9568022.jpeg",
+    "genres": [
+      "Sci-Fi",
+      "Thriller",
+      "Drama"
+    ],
+    "themes": [
+      "Time Travel",
+      "Scientific",
+      "Psychological"
+    ],
+    "popularity": 89,
+    "description": "A self-proclaimed mad scientist and his friends discover a way to send messages to the past, altering the timeline."
+  },
+  {
+    "id": 8,
+    "title": "Your Lie in April",
+    "coverImage": "https://images.pexels.com/photos/4344878/pexels-photo-4344878.jpeg",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "themes": [
+      "Tragedy",
+      "Coming of Age",
+      "School"
+    ],
+    "popularity": 85,
+    "description": "A piano prodigy who lost his ability to play after his mother's death discovers a free-spirited violinist who helps him return to music."
+  },
+  {
+    "id": 9,
+    "title": "Hunter x Hunter",
+    "coverImage": "https://images.pexels.com/photos/9568087/pexels-photo-9568087.jpeg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Coming of Age",
+      "Friendship",
+      "Battle Shounen"
+    ],
+    "popularity": 91,
+    "description": "A young boy sets out to become a Hunter, an elite member of society, in order to find his missing father."
+  },
+  {
+    "id": 10,
+    "title": "Violet Evergarden",
+    "coverImage": "https://images.pexels.com/photos/8442525/pexels-photo-8442525.jpeg",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "themes": [
+      "Post-War",
+      "Coming of Age",
+      "Emotional"
+    ],
+    "popularity": 87,
+    "description": "A former soldier becomes an Auto Memory Doll and explores the meaning of the words 'I love you' that her mentor told her."
+  },
+  {
+    "id": 11,
+    "title": "Cowboy Bebop",
+    "coverImage": "https://images.pexels.com/photos/7915437/pexels-photo-7915437.jpeg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Space",
+      "Noir",
+      "Western"
+    ],
+    "popularity": 88,
+    "description": "A ragtag group of bounty hunters chase down criminals across the solar system."
+  },
+  {
+    "id": 12,
+    "title": "Naruto",
+    "coverImage": "https://images.pexels.com/photos/6758690/pexels-photo-6758690.jpeg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Ninja",
+      "Coming of Age",
+      "Friendship"
+    ],
+    "popularity": 93,
+    "description": "A young ninja seeks recognition from his peers and dreams of becoming the leader of his village."
+  }
+]
